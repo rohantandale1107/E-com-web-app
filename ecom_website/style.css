@@ -671,7 +671,9 @@ footer {
   border-top-right-radius: 0.5rem;
   margin-top: 6.4rem;
 }
-
+.black-white{
+  filter: invert(100%);
+}
 .footer-container .content_1 img {
   height: auto;
   width: 15rem;
