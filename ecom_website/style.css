@@ -38,7 +38,9 @@ body {
   min-width: 320px;
   background-color: var(--backgroundColor);
 }
-
+#signin{
+  margin-right: 1.5rem;
+}
 h1,
 h2,
 h3,
