@@ -106,7 +106,9 @@ a {
   .container:first-child {
   padding: 6.4rem 0 2.4rem 0;
 }
-
+.section-extra-product{
+  margin-top: 11rem;
+}
 .grid {
   display: grid;
 }
@@ -310,8 +312,8 @@ main {
   height: 12rem;
 }
 
-.custom-shape-divider-bottom-1696038172 .shape-fill {
-  fill: #ffffff;
+.custom-shape-divider-bottom-1711178737 {
+  fill: #D9E9FF;
 }
 
 
