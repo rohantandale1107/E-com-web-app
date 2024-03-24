@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  body{
+    font-family: "Poppins", sans-serif;
+  }
+
+
+.category-list label {
+    display: block;
+    padding: 5px 0px;
+    
+}
+.products-main{
+    display: flex;
+}
+.product{
+    flex-basis: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.filterbox{
+    height: 100vh;
+    padding: 4rem;
+    width: 16rem;
+    background-color: aqua;
+}
+.category-list{
+    margin-top: 1.5rem;
+}
+.product-items{
+    flex-basis: 31%;
+    box-shadow: 0px 0px 10px 2px #ccc;
+    margin-bottom: 250px;
+}
+.product{
+    display: flex;
+    flex-basis: 75%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
